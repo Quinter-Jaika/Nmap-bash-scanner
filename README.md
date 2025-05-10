@@ -4,7 +4,10 @@ This script automates basic network reconnaissance tasks using Nmap and Bash.
 
 ## Requirements
 - Linux OS
-- Nmap installed```bash pip install nmap```
+- Nmap installed
+  	```bash
+  	pip install nmap
+  	```
 - Bash shell
 
 ## Usage
