@@ -42,7 +42,7 @@ This script automates basic network reconnaissance tasks using Nmap and Bash.
 
 *Figure: Running the scan.sh script with target "192.168.1.1"*
 
-![Example Scan Output](127.0.0.1Part1.png)
+![Example Scan Output](127.0.0.1Part1.png) <br>
 ![Example Scan Output](127.0.0.1Part2.png)
 
 *Figure: Running the scan.sh script with target "scanme.nmap.org"*
